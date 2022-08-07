@@ -1,0 +1,51 @@
+﻿phone_id,phone_brand,model_name,size_in,year_announced
+1,Samsung,s22ultra,7,2022
+2,Samsung,s22plus,7,2022
+3,Samsung,s22,6,2022
+4,Samsung,zfold3,8,2021
+5,Samsung,zflip,7,2020
+6,Samsung,a53,7,2022
+7,Samsung,a33,6,2022
+8,Samsung,note10plus,7,2019
+9,Samsung,note10,6,2019
+10,Samsung,note9,6,2018
+11,Apple,Iphone 13promax,7,2021
+12,Apple,Iphone 13pro,6,2021
+13,Apple,Iphone 13,6,2021
+14,Apple,Iphone 13mini,5,2021
+15,Apple,Iphone 12promax,7,2020
+16,Apple,Iphone 12pro,6,2020
+17,Apple,Iphone 12,6,2020
+18,Apple,Iphone 12mini,5,2020
+19,Apple,Iphone 11promax,7,2019
+20,Apple,Iphone 11pro ,6,2019
+21,Google,Pixel 6a,7,2022
+22,Google,Pixel 6pro,7,2022
+23,Google,Pixel 6,6,2022
+24,Google,Pixel 5a,6,2020
+25,Google,Pixel 4a,6,2019
+26,Google,Pixel 4xl,6,2019
+27,Google,Pixel 4,6,2019
+28,Google,Pixel 3a,6,2019
+29,Google,Pixel 3xl,6,2018
+30,Google,Pixel 3,6,2018
+31,Oneplus,10t,6,2022
+32,Oneplus,nord2t,6,2022
+33,Oneplus,10PRO,6,2021
+34,Oneplus,nord ce 2,6,2021
+35,Oneplus,10R,6,2021
+36,Oneplus,9PRO,6,2020
+37,Oneplus,9,6,2020
+38,Oneplus,9R,6,2020
+39,Oneplus,Nord N200,6,2020
+40,Oneplus,Nord 2,6,2019
+41,Sony,Xperia 1iv,7,2022
+42,Sony,Xperia 10iv,6,2022
+43,Sony,Xperia pro-i,7,2021
+44,Sony,Xperia 10III,6,2021
+45,Sony,Xperia 1III,7,2021
+46,Sony,Xperia 5III,6,2021
+47,Sony,Xperia pro,4,2011
+48,Sony,Xperia 5II,6,2020
+49,Sony,Xperia 1II,7,2020
+50,Sony,Xperia 10II,6,2020
