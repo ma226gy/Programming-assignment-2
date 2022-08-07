@@ -14,6 +14,9 @@ def read_csv(file_location):
     table = pan.read_csv(mainPath + file_location,
                          index_col=False, delimiter=',')
 
+    # NA and N/A will be replaced with None.
+    table = table.fillna(nump.nan).replace([nump.nan], [None])
+
     return table
 
 
