@@ -189,7 +189,7 @@ def main():
             print("\nAll brands and the number of models available:")
 
             for row in mresult:
-                print("Brand: ", row[0])
+                print("\nBrand: ", row[0])
                 print("Num of models: ", row[1])
 
             print("\n----------")
