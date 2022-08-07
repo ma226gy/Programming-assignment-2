@@ -182,7 +182,7 @@ def main():
             query = """ SELECT phone_brand, 
                         COUNT(phone_brand)
                         FROM phones
-                        GROUP BY phone_brand
+                        GROUP BY phone_brand;
                         """
             mcursor.execute(query)
             mresult = mcursor.fetchall()
