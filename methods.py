@@ -60,7 +60,7 @@ def menu_main():
           "\n2. Available phone models at Noor Shop."
           "\n3. Which shops have Martin Jacob favorite brand and their available models."
           "\n4. List the number of models from all phone brands."
-          "\n5. Create a view that includes all customers with Apple as thier favorite brand."
-          "\n6. Show the view that contains all customers with Apple as thier favorite brand."
+          "\n5. Create a view that includes all customers with Apple as their favorite brand."
+          "\n6. Show the view that contains all customers with Apple as their favorite brand."
           "\nexit. Ends the program"
           "\n----------")

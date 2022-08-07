@@ -117,13 +117,13 @@ def main():
 
         # 1. List all sellers
         if (user_input == '1'):
-            mcursor.execute("SELECT seller_name FROM sellers")
+            mcursor.execute("SELECT seller_name FROM sellers;")
             mresult = mcursor.fetchall()
             print("\nThe names of all the sellers:")
 
             # Printing names of sellers.
             for row in mresult:
-                print(row[0])
+                print("\n" + row[0])
 
             print("\n----------")
             user_input = input("\nPress any key to return to main menu "
